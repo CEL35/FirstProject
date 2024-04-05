@@ -1,0 +1,18 @@
+html{margin:0;height: 100%;}
+body{margin:0;height: 100%;}
+header { display: block; height: 300px; background-color: #FFE4B5; text-align: center; }
+h1 { display: inline-block; color: red; text-align: center; margin:5%}
+#logo {margin-right: 5%; width: 150PX; border-radius: 50%;float: left;padding: 30PX}
+#photo { height: 300px;float: left; }
+body {display: block;hight : 300px;text-align: center;}
+#paras{font-size: 26px;font-weight: bold}
+
+
+
+
+
+
+
+
+
+
